@@ -26,7 +26,7 @@ review, security response, maintenance, or release timelines.
 
 <div class="grid cards" markdown>
 
--   :material-school:{ .lg .middle } __emodpy-hiv__
+-   :material-school:{ .lg .middle } __emodpy-hiv__{ #emodpy-hiv }
 
     ---
 
@@ -34,7 +34,7 @@ review, security response, maintenance, or release timelines.
 
     [:octicons-arrow-right-24: emodpy-hiv][emodpy-hiv_tutorial]
 
--   :material-school:{ .lg .middle } __emodpy-malaria__
+-   :material-school:{ .lg .middle } __emodpy-malaria__{ #emodpy-malaria }
 
     ---
 
@@ -42,7 +42,7 @@ review, security response, maintenance, or release timelines.
 
     [:octicons-arrow-right-24: emodpy-malaria][emodpy-malaria_tutorial]
 
--   :material-school:{ .lg .middle } __emodpy-workflow__
+-   :material-school:{ .lg .middle } __emodpy-workflow__{ #emodpy-workflow }
 
     ---
 
@@ -50,7 +50,7 @@ review, security response, maintenance, or release timelines.
 
     [:octicons-arrow-right-24: emodpy-workflow][emodpy-workflow]
 
--   :material-school:{ .lg .middle } __EMOD-Generic-Scripts__
+-   :material-school:{ .lg .middle } __EMOD-Generic-Scripts__{ #emod-generic-scripts }
 
     ---
 
@@ -71,7 +71,7 @@ The EMOD framework is powerful and flexible, and can be customized to examine a 
 
 <div class="grid cards" markdown>
 
--   :material-virus:{ .lg .middle } __EMOD__
+-   :material-virus:{ .lg .middle } __EMOD__ { #emod }
 
     ---
 
@@ -79,7 +79,7 @@ The EMOD framework is powerful and flexible, and can be customized to examine a 
 
     [:octicons-arrow-right-24: EMOD][emod]
 
--   :material-virus-outline:{ .lg .middle } __EMOD-Generic__
+-   :material-virus-outline:{ .lg .middle } __EMOD-Generic__{ #emod-generic }
 
     ---
 
@@ -87,7 +87,7 @@ The EMOD framework is powerful and flexible, and can be customized to examine a 
 
     [:octicons-arrow-right-24: EMOD-Generic][emod-generic]
 
--   :material-api:{ .lg .middle } __emod-api__
+-   :material-api:{ .lg .middle } __emod-api__{ #emod-api }
 
     ---
 
@@ -95,7 +95,7 @@ The EMOD framework is powerful and flexible, and can be customized to examine a 
 
     [:octicons-arrow-right-24: emod-api][emod-api]
 
--   :material-language-python:{ .lg .middle } __emodpy__
+-   :material-language-python:{ .lg .middle } __emodpy__{ #emodpy }
 
     ---
 
@@ -127,7 +127,7 @@ The idmtools package is a collection of Python scripts and utilities that stream
 
 <div class="grid cards" markdown>
 
--   :material-language-python:{ .lg .middle } __idmtools__
+-   :material-language-python:{ .lg .middle } __idmtools__{ #idmtools }
 
     ---
 
@@ -135,7 +135,7 @@ The idmtools package is a collection of Python scripts and utilities that stream
 
     [:octicons-arrow-right-24: idmtools][idmtools]
 
--   :material-language-python:{ .lg .middle } __idmtools container__
+-   :material-language-python:{ .lg .middle } __idmtools container__{ #idmtools-container }
 
     ---
 
@@ -143,7 +143,7 @@ The idmtools package is a collection of Python scripts and utilities that stream
 
     [:octicons-arrow-right-24: idmtools-local][idmtools_container]
 
--   :material-language-python:{ .lg .middle } __idmtools calibra__
+-   :material-language-python:{ .lg .middle } __idmtools calibra__{ #idmtools-calibra }
 
     ---
 
